@@ -1,0 +1,19 @@
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --background-color: #1a2638;
+    --primary: #6082b6;
+    --primary-hover: #6082b6;
+    --primary-focus: #6082b6;
+    --contrast-hover: #6082b6;
+    --contrast-focus: #6082b6;
+    --card-background-color: #202f46;
+  }
+}
+
+.brand {
+  max-width: 18rem;
+}
+
+article i {
+  font-size: 6rem;
+}

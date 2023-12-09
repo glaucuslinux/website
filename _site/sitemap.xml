@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2023-12-09T09:23:00.303Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/community/</loc>
+    <lastmod>2023-12-09T09:26:49.443Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/donate/</loc>
+    <lastmod>2023-12-09T09:27:02.873Z</lastmod>
+  </url>
+</urlset>
