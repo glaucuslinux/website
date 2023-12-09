@@ -1,8 +1,4 @@
 # website
-[![Join the chat at https://gitter.im/glaucuslinux/website](
-https://badges.gitter.im/glaucuslinux/website.svg)](
-https://gitter.im/glaucuslinux/website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 glaucus's website by [Cevdet Arda](https://github.com/cevdetarda/)
 
 ## Community
