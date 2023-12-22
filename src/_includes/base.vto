@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>{{ title }}</title>
-  <meta name="color-scheme" content="dark light">
-  <meta name="description" content="{{ description }}">
-  <meta name="author" content="Firas Khalil Khana">
-  <link rel="icon" href="/favicon.ico">
-  <link rel="stylesheet" href="/pico.css">
-  <link rel="stylesheet" href="/style.css">
-  <link rel="stylesheet" href="/font.css">
-  <link rel="canonical" href="{{ url |> url(true) }}">
-</head>
-<body>
-  {{ include "header.vto" }}
+<html data-theme="dark" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>{{ title }}</title>
+    <meta content="A simple and lightweight Linux® distribution based on musl libc and toybox" name="description">
+    <meta content="Firas Khalil Khana" name="author">
+    <link href="/favicon.ico" rel="shortcut icon">
+    <link href="/pico.css" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet">
+    <link href="/font.css" rel="stylesheet">
+    <link rel="canonical" href="{{ url |> url(true) }}">
+  </head>
 
-  {{ content }}
+  <body>
+    {{ include "header.vto" }}
 
-  {{ include "footer.vto" }}
-</body>
+    {{ content }}
+
+    {{ include "footer.vto" }}
+  </body>
 </html>
