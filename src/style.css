@@ -1,0 +1,10 @@
+@import '_includes/css/gothium.css';
+@import '_includes/css/font.css';
+
+.brand {
+  max-width: 18rem;
+}
+
+.text-center {
+  text-align: center;
+}

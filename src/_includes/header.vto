@@ -1,17 +1,30 @@
-<div class="container">
-  <header>
-    <div align="center">
-      <img alt="glaucus logo" class="brand" src="/glaucus-logo.svg">
-    </div>
+<header class="text-center stack-xs">
+  <div align="center">
+    <img alt="glaucus logo" class="brand" src="/glaucus-logo.svg">
+  </div>
 
-    <h6 align="center">A simple and lightweight Linux® distribution based on musl libc and toybox</h6>
+  <p>A simple and lightweight Linux® distribution based on musl libc and toybox</p>
 
-    <p align="center">
-      <a class="{{ if url === '/' }}outline{{ else }}contrast outline{{ /if }}" href="/" role="button"><i class="las la-ship"></i> Home</a>
-      <a class="contrast outline" href="https://github.com/glaucuslinux/glaucus/releases" role="button"><i class="las la-anchor"></i> Download</a>
-      <a class="contrast outline" href="https://wiki.glaucuslinux.org/" role="button"><i class="las la-compass"></i> Wiki</a>
-      <a class="{{ if url === '/community/' }}outline{{ else }}contrast outline{{ /if }}" href="/community/" role="button"><i class="las la-dharmachakra"></i> Community</a>
-      <a class="{{ if url === '/donate/' }}outline{{ else }}contrast outline{{ /if }}" href="/donate/" role="button"><i class="las la-fish"></i> Donate</a>
-      <a class="contrast outline" href="https://github.com/glaucuslinux/glaucus" role="button"><i class="lab la-github"></i> GitHub</a>
-    </p>
-  </header>
+  <nav>
+    <ul role="list" class="cluster" style="justify-content: center;">
+      <li>
+        <a class="{{ if url === '/' }}outline{{ else }}contrast outline{{ /if }}" href="/"><i class="las la-ship"></i> Home</a>
+      </li>
+      <li>
+        <a class="contrast outline" href="https://github.com/glaucuslinux/glaucus/releases"><i class="las la-anchor"></i> Download</a>
+      </li>
+      <li>
+        <a class="contrast outline" href="https://wiki.glaucuslinux.org/"><i class="las la-compass"></i> Wiki</a>
+      </li>
+      <li>
+        <a class="{{ if url === '/community/' }}outline{{ else }}contrast outline{{ /if }}" href="/community/"><i class="las la-dharmachakra"></i> Community</a>
+      </li>
+      <li>
+        <a class="{{ if url === '/donate/' }}outline{{ else }}contrast outline{{ /if }}" href="/donate/"><i class="las la-fish"></i> Donate</a>
+      </li>
+      <li>
+        <a class="contrast outline" href="https://github.com/glaucuslinux/glaucus"><i class="lab la-github"></i> GitHub</a>
+      </li>
+    </ul>
+  </nav>
+</header>
