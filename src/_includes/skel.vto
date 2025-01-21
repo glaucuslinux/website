@@ -7,16 +7,14 @@
     <meta content="A simple and lightweight Linux® distribution based on musl libc and toybox" name="description">
     <meta content="Firas Khalil Khana" name="author">
     <link href="/glaucus-logo.svg" rel="icon">
-    <link href="/pico.css" rel="stylesheet">
     <link href="/style.css" rel="stylesheet">
-    <link href="/font.css" rel="stylesheet">
     <link href="{{ url |> url(true) }}" rel="canonical">
   </head>
   <body>
-    <div class="container">
+    <div class="u-container stack-l">
     {{ include "header.vto" }}
 
-    {{ content }}
+    <main class="stack">{{ content }}</main>
 
     {{ include "footer.vto" }}
     </div>
