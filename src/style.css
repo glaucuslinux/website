@@ -1,5 +1,5 @@
 @import '_includes/css/gothium.css';
-@import '_includes/css/font.css';
+@import '_includes/css/icon.css';
 
 .brand {
   max-width: 18rem;
@@ -7,4 +7,8 @@
 
 .text-center {
   text-align: center;
+}
+
+.box a {
+  text-decoration-line: none;
 }
