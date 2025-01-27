@@ -273,8 +273,8 @@ a:hover {
   flex-basis: calc((var(--threshold) - 100%)*999)
 }
 
-.switcher>:nth-last-child(n+5),
-.switcher>:nth-last-child(n+5)~* {
+.switcher.max-5>:nth-last-child(n+5),
+.switcher.max-5>:nth-last-child(n+5)~* {
   flex-basis: 100%
 }
 
