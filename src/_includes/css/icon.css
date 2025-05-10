@@ -23,54 +23,53 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-telegram:before {
-  content: "\f2c6";
-}
-
-.icon-reddit:before {
-  content: "\f1a1";
-}
-
-.icon-discord:before {
-  content: "\f392";
-}
-
-.icon-twitter:before {
-  content: "\f099";
-}
-
-.icon-github:before {
-  content: "\f09b";
-}
-
-.icon-youtube:before {
-  content: "\f167";
-}
-
-.icon-ship:before {
-  content: "\f21a";
-}
-
-.icon-dharmachakra:before {
-  content: "\f655";
-}
-
-.icon-compass:before {
-  content: "\f14e";
-}
-
-.icon-fish:before {
-  content: "\f578";
-}
-
-.icon-skull-crossbones:before {
-  content: "\f714";
-}
-
 .icon-anchor:before {
   content: "\f13d";
 }
 
 .icon-coffee:before {
   content: "\f0f4";
+}
+.icon-compass:before {
+  content: "\f14e";
+}
+
+.icon-dharmachakra:before {
+  content: "\f655";
+}
+
+.icon-discord:before {
+  content: "\f392";
+}
+
+.icon-fish:before {
+  content: "\f578";
+}
+
+.icon-github:before {
+  content: "\f09b";
+}
+
+.icon-reddit:before {
+  content: "\f1a1";
+}
+
+.icon-ship:before {
+  content: "\f21a";
+}
+
+.icon-skull-crossbones:before {
+  content: "\f714";
+}
+
+.icon-telegram:before {
+  content: "\f2c6";
+}
+
+.icon-x:before {
+  content: "\f099";
+}
+
+.icon-youtube:before {
+  content: "\f167";
 }
