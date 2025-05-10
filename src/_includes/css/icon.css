@@ -51,20 +51,12 @@
   content: "\f21a";
 }
 
-.icon-brain:before {
-  content: "\f5dc";
-}
-
 .icon-dharmachakra:before {
   content: "\f655";
 }
 
 .icon-compass:before {
   content: "\f14e";
-}
-
-.icon-seedling:before {
-  content: "\f4d8";
 }
 
 .icon-fish:before {
@@ -77,14 +69,6 @@
 
 .icon-anchor:before {
   content: "\f13d";
-}
-
-.icon-lightbulb:before {
-  content: "\f0eb";
-}
-
-.icon-cog:before {
-  content: "\f013";
 }
 
 .icon-coffee:before {
