@@ -6,7 +6,7 @@ glaucus website
 - [Reddit](https://reddit.com/r/glaucus)
 - [Telegram](https://t.me/glaucuslinux)
 - [X](https://x.com/glaucuslinux)
-- [YouTube](https://www.youtube.com/@glaucuslinux)
+- [YouTube](https://youtube.com/@glaucuslinux)
 
 ## Voyagers
 - Firas Khalil Khana (firasuke) <[firasuke@glaucuslinux.org](
