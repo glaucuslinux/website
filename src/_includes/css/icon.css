@@ -27,6 +27,10 @@
   content: "\f13d";
 }
 
+.icon-binoculars:before {
+  content: "\f1e5";
+}
+
 .icon-coffee:before {
   content: "\f0f4";
 }
@@ -39,12 +43,12 @@
   content: "\f392";
 }
 
-.icon-fish:before {
-  content: "\f578";
-}
-
 .icon-github:before {
   content: "\f09b";
+}
+
+.icon-life-ring:before {
+  content: "\f1cd";
 }
 
 .icon-reddit:before {
