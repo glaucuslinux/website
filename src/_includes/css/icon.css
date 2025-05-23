@@ -27,16 +27,16 @@
   content: "\f13d";
 }
 
-.icon-binoculars:before {
-  content: "\f1e5";
-}
-
 .icon-coffee:before {
   content: "\f0f4";
 }
 
 .icon-compass:before {
   content: "\f14e";
+}
+
+.icon-crow:before {
+  content: "\f520";
 }
 
 .icon-discord:before {
