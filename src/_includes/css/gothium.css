@@ -1,7 +1,7 @@
 :root {
   --text: #e4e2e4;
   --background: #000000;
-  --primary: #e9b3ea;
+  --primary: #6082b6;
   --secondary: #1a140a;
   --accent: #d29914
 }
@@ -10,7 +10,7 @@
   :root {
     --text: #1d1b1d;
     --background: #ffffff;
-    --primary: #4b154c;
+    --primary: #6082b6;
     --secondary: #f5efe5;
     --accent: #ebb22d
   }
