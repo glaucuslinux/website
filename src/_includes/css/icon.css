@@ -43,6 +43,10 @@
   content: "\f392";
 }
 
+.icon-gem:before {
+  content: "\f3a5";
+}
+
 .icon-github:before {
   content: "\f09b";
 }
@@ -53,6 +57,10 @@
 
 .icon-reddit:before {
   content: "\f1a1";
+}
+
+.icon-scroll:before {
+  content: "\f70e";
 }
 
 .icon-ship:before {
