@@ -31,10 +31,6 @@
   content: "\f0f4";
 }
 
-.icon-compass:before {
-  content: "\f14e";
-}
-
 .icon-crow:before {
   content: "\f520";
 }
@@ -49,10 +45,6 @@
 
 .icon-github:before {
   content: "\f09b";
-}
-
-.icon-life-ring:before {
-  content: "\f1cd";
 }
 
 .icon-reddit:before {
