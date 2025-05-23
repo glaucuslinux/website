@@ -9,7 +9,7 @@ glaucus website
 - [YouTube](https://youtube.com/@glaucuslinux)
 
 ## Voyagers
-- Firas Khalil Khana (firasuke) <[firasuke@glaucuslinux.org](
+- Firas Khana (firasuke) <[firasuke@glaucuslinux.org](
 mailto:firasuke@glaucuslinux.org)>
 - [Cevdet Arda (cevvedy)](https://github.com/cevdetardaharan/)
 
